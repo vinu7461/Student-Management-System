@@ -13,6 +13,7 @@ Tech Stack: HTML, CSS, JavaScript
 Description:
 A simple basic application for the simple student management system. you can Add remove student you have option to  accept or reject the student. 
 
+Demo :https://glistening-faloodeh-80a24d.netlify.app/
   
 ### Preview
 
